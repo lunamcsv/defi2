@@ -1,0 +1,11 @@
+{
+  "name": "defi2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "git": "git add . && git commit -m \"update\" && git push"
+  },
+  "repository": "https://github.com/lunamcsv/defi2.git",
+  "author": "lunamcsv <lunamcsv@gmail.com>",
+  "license": "MIT"
+}
